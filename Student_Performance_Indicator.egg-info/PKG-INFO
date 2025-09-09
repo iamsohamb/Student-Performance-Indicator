@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: Student-Performance-Indicator
+Version: 0.0.1
+Author: iamsohamb
+Author-email: sohambhattacharya252@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
